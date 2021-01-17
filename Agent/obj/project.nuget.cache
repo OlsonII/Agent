@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ukx1mDO4AN8Tntb606rlMvWACx+Mns0GJceyxVMZsyKqx4aTTFBovYBFVevMIS6WFy07MUjOXVuyOqF5cqjmcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\Entrevista\\Agent\\Agent\\Agent\\Agent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NILSO\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\NILSO\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\NILSO\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\NILSO\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\NILSO\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\NILSO\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
